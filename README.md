@@ -90,4 +90,4 @@ A **Plumber API** is included for anyone who wants to build a web application on
 
 ## Report
 
-Full methodology and results available in [`Heart_failure.pdf`](Heart_failure.pdf)
+Full methodology and results available in [`Heart_failure.pdf`](https://github.com/Amir-1997/Heart_Failure_R/blob/main/reports/Heart_failure.pdf)
